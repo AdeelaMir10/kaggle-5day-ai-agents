@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Google News CLI
 
 A stunning, zero-dependency command-line interface and terminal user interface (TUI) for Google News, built entirely in native Node.js. 
@@ -62,3 +63,13 @@ Available topics: `world`, `nation`, `business`, `technology`, `entertainment`, 
 - `R` : Refresh the current news feed.
 - `Backspace` / `Esc` / `B` : Go back to the article list from details or topic menu.
 - `Q` / `Esc` (on main list) : Exit and close the application.
+=======
+# Kaggle x Google — 5-Day AI Agents Intensive
+
+Daily work from the 5-Day AI Agents: Intensive Vibe Coding Course with Google.
+
+## Day 1 — Introduction to Agents & Vibe Coding
+- Built a Google News CLI app using Antigravity 2.0
+- Created a code-review Skill for automated code analysis
+- Built and deployed a Snowflakes & Balloons web app to Google Cloud Run using AI Studio
+>>>>>>> 2cc93d91b4f23ab34caf872d24ad39dd67973d6a
