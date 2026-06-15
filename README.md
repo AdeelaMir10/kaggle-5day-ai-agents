@@ -1,2 +1,8 @@
-# kaggle-5day-ai-agents
-5-Day AI Agents Intensive Course by Kaggle x Google — daily assignments, codelabs, and projects
+# Kaggle x Google — 5-Day AI Agents Intensive
+
+Daily work from the 5-Day AI Agents: Intensive Vibe Coding Course with Google.
+
+## Day 1 — Introduction to Agents & Vibe Coding
+- Built a Google News CLI app using Antigravity 2.0
+- Created a code-review Skill for automated code analysis
+- Built and deployed a Snowflakes & Balloons web app to Google Cloud Run using AI Studio
