@@ -1,0 +1,6 @@
+{
+  "name": "Snowflakes & Balloons",
+  "description": "A refined, formal application to trigger elegant medium-sized falling snowflakes and rising balloons animations, running for exactly 5 seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
