@@ -1,0 +1,21 @@
+{
+  "name": "google-news-cli",
+  "version": "1.0.0",
+  "description": "A beautiful zero-dependency command-line interface for Google News.",
+  "type": "module",
+  "bin": {
+    "google-news": "./bin/google-news.js"
+  },
+  "scripts": {
+    "start": "node ./bin/google-news.js"
+  },
+  "keywords": [
+    "cli",
+    "google-news",
+    "rss",
+    "news",
+    "terminal"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
